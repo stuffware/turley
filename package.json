@@ -1,0 +1,23 @@
+{
+  "name": "turley",
+  "version": "2.0.0",
+  "description": "Opens Mike's Website",
+  "main": "index.js",
+  "bin": {
+    "turley": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuffware/turley.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuffware/turley/issues"
+  },
+  "homepage": "https://github.com/stuffware/turley#readme",
+  "dependencies": {
+    "openurl": "^1.1.1"
+  }
+}
